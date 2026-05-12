@@ -41,7 +41,7 @@ This page provides a high-level overview of customer retention performance and c
 
 ### Dashboard Preview
 
-![Executive Overview](BUSINESSDASHBOARD01.png)
+![Executive Overview](dashboard1.png)
 
 ---
 
@@ -59,8 +59,8 @@ This page focuses on identifying major behavioral and service-related churn fact
 
 ### Dashboard Preview
 
-![Dashboard](dashboard1.png)
-![Dashboard](dashboard2.png)
+
+![CUSTOMER RETENTION](dashboard2.png)
 
 ---
 
@@ -123,6 +123,11 @@ The analysis reveals that payment methods, online security services, customer su
 - Data Storytelling
 
 ---
+
+
+- [Customer Churn Analysis.pbix](Customer%20Churn%20Analysis%20.pbix)
+- [CUSTOMER CHURN ANALYSIS.xlsx](CUSTOMER%20CHURN%20ANALYSIS.xlsx)
+- [README.md](README.md)
 
 
 ## Author
